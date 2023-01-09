@@ -1,0 +1,81 @@
+.title {
+    /* background-color: #0a3f67; */
+    width: 50%;
+    margin: auto;
+}
+
+h2{
+    color: aliceblue;
+    font-size:40px;
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+label{
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 15px;
+    /* background-color: rgb(93, 93, 35); */
+}
+
+input, select{
+    color: aliceblue;
+    font-size: 20px;
+    margin: 15px;
+    padding-right:30% ;
+    background-color: rgb(35, 69, 93);
+}
+
+#Sex{
+    margin: 0;
+    margin-left: 15px;
+    margin-top: 8px;
+}
+
+.form{
+    background-color: #2f566e;
+    width: 28%;
+    margin-left: 80px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+
+
+.predict2{
+    display: block;
+    margin :auto;
+    margin-top: 8px;
+    padding-left: 30%;
+    background-color: #A26747;
+}
+
+.predict2:hover{
+    display: block;
+    margin :auto;
+    margin-top: 8px;
+    padding-left: 30%;
+    background-color: #c76c3c;
+    cursor: pointer;
+}
+
+.copyright{
+    color: #eaeff3;
+    margin-top:60px;
+    text-align: right;
+}
+
+.Survived{
+    color: #d2c4bd;
+    background-color: #19425c;
+    display: inline;
+    margin-left: 80px;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: #a29c47;
+    border-width: 3px;
+    border-radius: 20px;
+    border-style: dashed;
+}
